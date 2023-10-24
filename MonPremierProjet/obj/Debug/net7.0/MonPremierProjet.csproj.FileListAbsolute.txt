@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.exe
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.deps.json
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.dll
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.pdb
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.dll
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\refint\MonPremierProjet.dll
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.pdb
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\MonPremierProjet\obj\Debug\net7.0\ref\MonPremierProjet.dll

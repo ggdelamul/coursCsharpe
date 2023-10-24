@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\ExerciceUn\bin\Debug\net7.0\ExerciceUn.exe
+C:\Users\jerem\Desktop\csharp\ExerciceUn\bin\Debug\net7.0\ExerciceUn.deps.json
+C:\Users\jerem\Desktop\csharp\ExerciceUn\bin\Debug\net7.0\ExerciceUn.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\ExerciceUn\bin\Debug\net7.0\ExerciceUn.dll
+C:\Users\jerem\Desktop\csharp\ExerciceUn\bin\Debug\net7.0\ExerciceUn.pdb
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\ExerciceUn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\ExerciceUn.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\ExerciceUn.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\ExerciceUn.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\ExerciceUn.dll
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\refint\ExerciceUn.dll
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\ExerciceUn.pdb
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\ExerciceUn.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\ExerciceUn\obj\Debug\net7.0\ref\ExerciceUn.dll
