@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\StudentMPC\bin\Debug\net7.0\StudentMPC.exe
+C:\Users\jerem\Desktop\csharp\StudentMPC\bin\Debug\net7.0\StudentMPC.deps.json
+C:\Users\jerem\Desktop\csharp\StudentMPC\bin\Debug\net7.0\StudentMPC.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\StudentMPC\bin\Debug\net7.0\StudentMPC.dll
+C:\Users\jerem\Desktop\csharp\StudentMPC\bin\Debug\net7.0\StudentMPC.pdb
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\StudentMPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\StudentMPC.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\StudentMPC.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\StudentMPC.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\StudentMPC.dll
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\refint\StudentMPC.dll
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\StudentMPC.pdb
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\StudentMPC.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\StudentMPC\obj\Debug\net7.0\ref\StudentMPC.dll

@@ -27,3 +27,8 @@ string chemin = @"C:\docs\fichiers.txt";
 string bonjour = $"Bonjour {nom}";
 
 Console.WriteLine(bonjour);
+
+string ageString = age.ToString();
+Console.WriteLine(ageString);
+
+//reprise à 1h56min

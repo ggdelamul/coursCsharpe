@@ -12,5 +12,6 @@ Console.WriteLine(soustraction);
 Console.WriteLine(multiplication);
 Console.WriteLine(division);//return un entier car int / int 
 Console.WriteLine(modulo);
+Console.WriteLine(addition != soustraction);
 
 
