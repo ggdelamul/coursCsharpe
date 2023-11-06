@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\MathMethod\bin\Debug\net7.0\MathMethod.exe
+C:\Users\jerem\Desktop\csharp\MathMethod\bin\Debug\net7.0\MathMethod.deps.json
+C:\Users\jerem\Desktop\csharp\MathMethod\bin\Debug\net7.0\MathMethod.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\MathMethod\bin\Debug\net7.0\MathMethod.dll
+C:\Users\jerem\Desktop\csharp\MathMethod\bin\Debug\net7.0\MathMethod.pdb
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\MathMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\MathMethod.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\MathMethod.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\MathMethod.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\MathMethod.dll
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\refint\MathMethod.dll
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\MathMethod.pdb
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\MathMethod.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\MathMethod\obj\Debug\net7.0\ref\MathMethod.dll
