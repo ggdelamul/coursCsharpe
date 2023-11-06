@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\methodeTest\bin\Debug\net7.0\methodeTest.exe
+C:\Users\jerem\Desktop\csharp\methodeTest\bin\Debug\net7.0\methodeTest.deps.json
+C:\Users\jerem\Desktop\csharp\methodeTest\bin\Debug\net7.0\methodeTest.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\methodeTest\bin\Debug\net7.0\methodeTest.dll
+C:\Users\jerem\Desktop\csharp\methodeTest\bin\Debug\net7.0\methodeTest.pdb
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\methodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\methodeTest.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\methodeTest.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\methodeTest.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\methodeTest.dll
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\refint\methodeTest.dll
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\methodeTest.pdb
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\methodeTest.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\methodeTest\obj\Debug\net7.0\ref\methodeTest.dll
