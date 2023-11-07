@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\firstArray\bin\Debug\net7.0\firstArray.exe
+C:\Users\jerem\Desktop\csharp\firstArray\bin\Debug\net7.0\firstArray.deps.json
+C:\Users\jerem\Desktop\csharp\firstArray\bin\Debug\net7.0\firstArray.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\firstArray\bin\Debug\net7.0\firstArray.dll
+C:\Users\jerem\Desktop\csharp\firstArray\bin\Debug\net7.0\firstArray.pdb
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\firstArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\firstArray.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\firstArray.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\firstArray.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\firstArray.dll
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\refint\firstArray.dll
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\firstArray.pdb
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\firstArray.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\firstArray\obj\Debug\net7.0\ref\firstArray.dll
