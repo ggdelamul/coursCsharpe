@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\message_abo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\message_abo.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\message_abo.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\message_abo.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\message_abo\bin\Debug\net7.0\message_abo.exe
+C:\Users\jerem\Desktop\csharp\message_abo\bin\Debug\net7.0\message_abo.deps.json
+C:\Users\jerem\Desktop\csharp\message_abo\bin\Debug\net7.0\message_abo.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\message_abo\bin\Debug\net7.0\message_abo.dll
+C:\Users\jerem\Desktop\csharp\message_abo\bin\Debug\net7.0\message_abo.pdb
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\message_abo.dll
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\refint\message_abo.dll
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\message_abo.pdb
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\message_abo.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\message_abo\obj\Debug\net7.0\ref\message_abo.dll
