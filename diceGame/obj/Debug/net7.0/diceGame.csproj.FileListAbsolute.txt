@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\diceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\diceGame.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\diceGame.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\diceGame.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\diceGame\bin\Debug\net7.0\diceGame.exe
+C:\Users\jerem\Desktop\csharp\diceGame\bin\Debug\net7.0\diceGame.deps.json
+C:\Users\jerem\Desktop\csharp\diceGame\bin\Debug\net7.0\diceGame.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\diceGame\bin\Debug\net7.0\diceGame.dll
+C:\Users\jerem\Desktop\csharp\diceGame\bin\Debug\net7.0\diceGame.pdb
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\diceGame.dll
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\refint\diceGame.dll
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\diceGame.pdb
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\diceGame.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\diceGame\obj\Debug\net7.0\ref\diceGame.dll
