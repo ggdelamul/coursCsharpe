@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\firstForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\firstForEach.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\firstForEach.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\firstForEach.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\firstForEach\bin\Debug\net7.0\firstForEach.exe
+C:\Users\jerem\Desktop\csharp\firstForEach\bin\Debug\net7.0\firstForEach.deps.json
+C:\Users\jerem\Desktop\csharp\firstForEach\bin\Debug\net7.0\firstForEach.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\firstForEach\bin\Debug\net7.0\firstForEach.dll
+C:\Users\jerem\Desktop\csharp\firstForEach\bin\Debug\net7.0\firstForEach.pdb
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\firstForEach.dll
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\refint\firstForEach.dll
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\firstForEach.pdb
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\firstForEach.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\firstForEach\obj\Debug\net7.0\ref\firstForEach.dll
