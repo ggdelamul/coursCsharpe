@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\commandeFraude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\commandeFraude.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\commandeFraude.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\commandeFraude.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\commandeFraude\bin\Debug\net7.0\commandeFraude.exe
+C:\Users\jerem\Desktop\csharp\commandeFraude\bin\Debug\net7.0\commandeFraude.deps.json
+C:\Users\jerem\Desktop\csharp\commandeFraude\bin\Debug\net7.0\commandeFraude.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\commandeFraude\bin\Debug\net7.0\commandeFraude.dll
+C:\Users\jerem\Desktop\csharp\commandeFraude\bin\Debug\net7.0\commandeFraude.pdb
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\commandeFraude.dll
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\refint\commandeFraude.dll
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\commandeFraude.pdb
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\commandeFraude.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\commandeFraude\obj\Debug\net7.0\ref\commandeFraude.dll
